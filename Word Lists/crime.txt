@@ -1,0 +1,12 @@
+robbery
+murder
+beating
+theft
+con
+blackmail
+assault
+theft
+adultery
+arson
+poisoning
+libel

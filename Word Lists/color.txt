@@ -1,0 +1,122 @@
+chestnut
+chocolate brown
+cocoa brown
+coffee brown
+mocha
+mahogany
+sepia
+sienna brown
+mink brown
+copper
+amber
+cognac colored
+whiskey colored
+brandy colored
+honey
+tawny
+topaz
+hazel
+obsidian
+onyx
+coal
+raven
+midnight black
+sky blue
+sunny blue
+cornflower blue
+steel blue
+ice blue
+arctic blue
+glacial blue
+crystal blue
+cerulean
+electric blue
+azure
+lake blue
+aquamarine
+turquoise
+slate blue
+slate gray
+storm blue
+storm gray
+silver
+silver gray
+chrome
+platinum
+pewter
+smoky gray
+ash gray
+concrete gray
+dove gray
+shark gray
+fog gray
+gunmetal gray
+olive
+emerald
+leaf green
+moss green
+amber
+bronze
+cinnamon
+copper
+dark brown
+deep brown
+ebony
+honey
+golden
+pale
+fair
+light
+cream
+alabaster
+ivory
+milk
+porcelain
+olive
+peach
+rose
+russet brown
+black
+blue-black
+jet black
+raven
+ebony
+inky black
+midnight black
+salt and pepper
+silver
+silver gray
+charcoal gray
+steel gray
+white
+snow-white
+brown
+brunette
+chocolate brown
+coffee brown
+ash brown
+brown sugar
+nut brown
+caramel
+tawny brown
+toffee brown
+red
+ginger
+auburn
+copper
+strawberry colored
+butterscotch
+honey colored
+wheat colored
+blonde
+golden
+sandy
+flaxen
+bleached
+platinum
+orange
+emerald
+green
+vivid green
+yellow
+sunny

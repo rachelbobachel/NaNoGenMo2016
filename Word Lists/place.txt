@@ -1,0 +1,83 @@
+bookstore
+bank
+art gallery
+hotel
+shop
+office
+park
+post office
+police station
+tenament building
+bakery
+bank
+barber shop
+book store
+cafe
+cathedral
+church
+store
+fire department
+hospital
+house
+library
+mosque
+movie theater
+museum
+office building
+post office
+restaurant
+school
+market
+shrine
+temple
+train station
+bay
+beach
+cave
+creek
+desert
+forest
+hill
+lake
+peak
+plain
+pond
+river
+riverbed
+sea
+stream
+swamp
+valley
+waterfall
+woods
+attic
+basement
+bathroom
+bedroom
+cellar
+closet
+den
+dining room
+front yard
+garage
+hall
+hallway
+kitchen
+laundry
+living room
+master bedroom
+office
+pantry
+patio
+playroom
+porch
+staircase
+study
+sun room
+scullery
+workshop
+pantry
+parlor
+salon
+billiard room
+gentleman’s club

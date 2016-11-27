@@ -1,0 +1,71 @@
+alchemist
+actuary
+actor
+magister
+aeronaut
+housekeeper
+butler
+ironsmith
+almoner
+beekeeper
+chemist
+servant
+bagman
+banker
+bard
+barkeeper
+police constable
+blacking manufacturer
+glass blower
+hansom driver
+singer
+thespian
+cadger
+candle maker
+clerk
+clergyman
+confectioner
+journalist
+laundry owner
+engine driver
+hermit
+flower seller
+hairdresser
+furrier
+gamester
+graffer
+haberdasher
+harbor pilot
+heelmaker
+housekeeper
+highwayman
+ivory worker
+journeyman
+lamplighter
+gardener
+milliner
+professor
+baker
+nightwalker
+nob thatcher
+orderly
+auctioneer
+bloodletter
+piper
+rag cutter
+coppersmith
+rigger
+saddler
+shoe smith
+skinner
+teacher
+thatcher
+tanner
+typist
+dinner
+innkeeper
+valuator
+xylography
+yeoman
+driver
+brewer
